@@ -19,3 +19,4 @@ Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB 
 ![Amiga 2K Front Panel Platine](https://github.com/Kupferschmid/Amiga/blob/main/images/A234_installed_in%20Panel.jpg)
 ![SUM A234](https://github.com/Kupferschmid/Amiga/blob/main/images/SUM%20A234.png)
 ![PiStorm2K für Amiga 2000 Retro Buddys PiStorm2K](https://www.retrobuddys.com/wp-content/uploads/2024/01/retro-jan-3-scaled.jpg)
+![Ugreen HDMI Switch](https://github.com/Kupferschmid/Amiga/blob/main/images/Ugreen%20hdmi-Switch.jpg)
