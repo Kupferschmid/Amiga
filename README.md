@@ -1,2 +1,2 @@
 # Amiga
-pimp your Amiga
+Pimp your Amiga
