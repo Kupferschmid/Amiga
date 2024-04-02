@@ -10,5 +10,5 @@ Der USB-Schacht sind eine externe Herausführung des RaspberryPi des [PiStorm 2K
 Der Taster in der Mitte ist mit einem HDMI-Switch verbunden und leuchtet auf, sobald der HDMI-Ausgang des PiStrorms auf den [RGB2HDMI]([AmigaRGBtoHDMI/Amiga2000CPLDSlot at main · LinuxJedi/AmigaRGBtoHDMI (github.com)](https://github.com/LinuxJedi/AmigaRGBtoHDMI/tree/main/Amiga2000CPLDSlot)) Ausgang umgeschaltet wird, damit kann komfortabel ein HDMI-Monitor genutzt werden sowohl für die klassische HIRES-Auflösung von Spielen aber auch über den PiStorm kann bis zu 4K mit der Workbench gearbeitet werden.
 
 Der untere Schacht führt die micro SD-Card des RaspberryPi nach außen mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX)
-![]([Amiga 2K Front Panel Platine](https://github.com/Kupferschmid/Amiga/blob/main/images/Amiga2K-Front-Panel-Platine.png))
+![Amiga 2K Front Panel Platine](https://github.com/Kupferschmid/Amiga/blob/main/images/Amiga2K-Front-Panel-Platine.png)
 ![PiStorm2K für Amiga 2000 Retro Buddys PiStorm2K](https://www.retrobuddys.com/wp-content/uploads/2024/01/retro-jan-3-scaled.jpg)
