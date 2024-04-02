@@ -12,6 +12,29 @@ Der Taster in der Mitte ist mit einem [HDMI-Switch](https://www.amazon.de/dp/B07
 Der untere Schacht führt die micro SD-Card des RaspberryPi nach außen mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX)
 Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB Drive](https://de.aliexpress.com/item/1005005882655063.html)
 
+** BOM
+| | | | |
+|-|-|-|-|
+|Name|Bauteil|Kommentar|Footprint|
+|U2|MAX4736EUB+ |MAX4736EUB_|SOP50P490X110-10N|
+|U1|CD4013BM96G4 |CD4013BM96G4|SOIC |
+|S2, S3|TL1240GQ1JCLR |TL1240GQ|SW_TL1240GQ|
+| | | | |
+|R7|3.9kΩ, 0603 SMD|R3k9|0603 |
+|R6|1.8kΩ, 0603 SMD|R1k8|0603 |
+|R5|1.0MΩ, 0603 SMD|R1M|0603 |
+|R2|120.0Ω, 0603 SMD|R120|0603 |
+|R1, R3, R4|ILSB0603ER100K |R100k|0603 |
+|J6|B6B-XH-A(LF)(SN) |B6B-XH-A|JST_B6B-XH-A|
+|J5|BG030-04-A-0450-0300-N-G |Tast+Led_RGB2HDMI|PinHeader_1x04_P2.54mm_Vertical|
+|J4|BG030-04-A-0450-0300-N-G |Tast+LED_Keyboard|PinHeader_1x04_P2.54mm_Vertical|
+|J2|B5B-XH-A(LF)(SN) |7-bit_A234_Adapter|JST_B5B-XH-A|
+|D1, D2|1N4148W |1N4148W|SOD123 |
+|C2|1.0nF, 0603 SMD|C1n|0603 |
+|C1, C3|100.0nF, 0603 SMD|C100nF|0603 |
+|Q1, Q2 |BC847C,235 |BC847W|SOT323 |
+|S1|TL1240BQ1JCLR|TL1240BQ|SW_TL1240GQ|
+
 ![fusion360 Frontpanel Back](https://github.com/Kupferschmid/Amiga/blob/main/images/fusion360-Frontpanel_Front.png)
 ![fusion360 Frontpanel Back](https://github.com/Kupferschmid/Amiga/blob/main/images/fusion360-Frontpanel_Back.png)
 ![](https://github.com/Kupferschmid/Amiga/blob/main/images/Schaltplan%20Amiga2K_Front_Panel.png)
