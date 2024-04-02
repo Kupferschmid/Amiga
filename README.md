@@ -12,6 +12,7 @@ Der Taster in der Mitte ist mit einem HDMI-Switch verbunden und leuchtet auf, so
 Der untere Schacht führt die micro SD-Card des RaspberryPi nach außen mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX)
 ![[https://github.com/Kupferschmid/Amiga/blob/main/images/fusion360-Frontpanel_Front.png](https://github.com/Kupferschmid/Amiga/blob/main/images/Amiga2K-Front-Panel-Platine.png)
 ![fusion360 Frontpanel Back](https://github.com/Kupferschmid/Amiga/blob/main/images/fusion360-Frontpanel_Back.png)
+![](https://github.com/Kupferschmid/Amiga/blob/main/images/Schaltplan%20Amiga2K_Front_Panel.png)
 ![Amiga2K Front Panel Platine](https://github.com/Kupferschmid/Amiga/blob/main/images/Amiga2K-Front-Panel-Platine.png)
 ![Amiga 2K Front Panel Platine](https://github.com/Kupferschmid/Amiga/blob/main/images/A234_installed_in%20Panel.jpg)
 ![SUM A234](https://github.com/Kupferschmid/Amiga/blob/main/images/SUM%20A234.png)
