@@ -12,7 +12,7 @@ Der Taster in der Mitte ist mit einem [HDMI-Switch](https://www.amazon.de/dp/B07
 Der untere Schacht führt die micro SD-Card des RaspberryPi nach außen mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX)
 Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB Drive](https://de.aliexpress.com/item/1005005882655063.html)
 
-** BOM
+## BOM
 | | | | |
 |-|-|-|-|
 |Name|Bauteil|Kommentar|Footprint|
