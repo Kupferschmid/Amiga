@@ -1,5 +1,6 @@
 # Amiga 2K Front Panel
 Pimp Your Amiga!
+![](https://github.com/Kupferschmid/Amiga/blob/main/images/20240402_235743.jpg)
 
 Das Amiga 2K Front Panel erweitert den Amiga 2000 mit einer Blende für den 5,25" Schacht. Damit kann ein externer Tastaturumschalter von [7-bit A234](https://retro.7-bit.pl/?lang=en&go=projekty&name=SUM234) intern benutzt werden und von außen komplett bedient werden in dem eine USB-Tastatur / USB-Funk-Dongle in den oberen linken Schacht gesteckt wird. Durch Drücken des danebenliegenden Tasters leuchtet die Taste und signalisiert, dass die USB-Tatstatur aktiv ist. erneutes drücken der Taste schält wieder auf die angesteckte Original-Tastatur um. Der Taster daneben aktiviert den Programmiermodus des 7-bit A234.
 
