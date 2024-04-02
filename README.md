@@ -1,7 +1,7 @@
 # Amiga 2K Front Panel
 Pimp Your Amiga!
 
-Das Amiga 2K Front Panel erweitert den Amiga 2000 mit einer Blende für den 5,25" Schacht. Damit kann ein externer Tastaturumschalter von [7-bit A234]([7-bit](https://retro.7-bit.pl/?lang=en&go=projekty&name=SUM234)) intern benutzt werden und von außen komplett bedient werden in dem eine USB-Tastatur / USB-Funk-Dongle in den oberen linken Schacht gesteckt wird. Durch Drücken des danebenliegenden Tasters leuchtet die Taste und signalisiert, dass die USB-Tatstatur aktiv ist. erneutes drücken der Taste schält wieder auf die angesteckte Original-Tastatur um. Der Taster daneben aktiviert den Programmiermodus des 7-bit A234.
+Das Amiga 2K Front Panel erweitert den Amiga 2000 mit einer Blende für den 5,25" Schacht. Damit kann ein externer Tastaturumschalter von [7-bit A234](https://retro.7-bit.pl/?lang=en&go=projekty&name=SUM234) intern benutzt werden und von außen komplett bedient werden in dem eine USB-Tastatur / USB-Funk-Dongle in den oberen linken Schacht gesteckt wird. Durch Drücken des danebenliegenden Tasters leuchtet die Taste und signalisiert, dass die USB-Tatstatur aktiv ist. erneutes drücken der Taste schält wieder auf die angesteckte Original-Tastatur um. Der Taster daneben aktiviert den Programmiermodus des 7-bit A234.
 
 
 Der USB-Schacht sind eine externe Herausführung des RaspberryPi des [PiStorm 2K](https://github.com/captain-amygdala/pistorm) um Dateien leicht dem Amiga OS zugänglich zu machen.
@@ -10,6 +10,8 @@ Der USB-Schacht sind eine externe Herausführung des RaspberryPi des [PiStorm 2K
 Der Taster in der Mitte ist mit einem [HDMI-Switch](https://www.amazon.de/dp/B07H7JCCKM) verbunden und leuchtet auf, sobald der HDMI-Ausgang des PiStrorms auf den [RGBtoHDMI](https://github.com/LinuxJedi/AmigaRGBtoHDMI/tree/main/Amiga2000CPLDSlot) Ausgang umgeschaltet wird, damit kann komfortabel ein HDMI-Monitor genutzt werden sowohl für die klassische HIRES-Auflösung von Spielen aber auch über den PiStorm kann bis zu 4K mit der Workbench gearbeitet werden.
 
 Der untere Schacht führt die micro SD-Card des RaspberryPi nach außen mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX)
+Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB Drive](https://de.aliexpress.com/item/1005005882655063.html)
+
 ![fusion360 Frontpanel Back](https://github.com/Kupferschmid/Amiga/blob/main/images/fusion360-Frontpanel_Front.png)
 ![fusion360 Frontpanel Back](https://github.com/Kupferschmid/Amiga/blob/main/images/fusion360-Frontpanel_Back.png)
 ![](https://github.com/Kupferschmid/Amiga/blob/main/images/Schaltplan%20Amiga2K_Front_Panel.png)
