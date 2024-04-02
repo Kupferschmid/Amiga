@@ -10,7 +10,8 @@ Der USB-Schacht in der Mitte dient zum externen erreichen des RaspberryPi-USB-Po
 
 Der Taster in der Mitte ist mit einem [HDMI-Switch](https://www.amazon.de/dp/B07H7JCCKM) verbunden und leuchtet auf, sobald der HDMI-Ausgang des PiStrorms auf den [RGBtoHDMI](https://github.com/LinuxJedi/AmigaRGBtoHDMI/tree/main/Amiga2000CPLDSlot) Ausgang umgeschaltet wird, damit kann komfortabel ein HDMI-Monitor genutzt werden sowohl für die klassische HIRES-Auflösung von Spielen aber auch über den PiStorm kann bis zu 4K mit der Workbench gearbeitet werden.
 
-Der untere Schacht führt die micro SD-Card des RaspberryPi nach außen mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX)
+Der untere Schacht führt die micro SD-Card des RaspberryPi, mithilfe eines [Verlängerungkabels](https://www.amazon.de/gp/product/B09MTJ17ZX), nach außen.
+
 Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB Drive](https://de.aliexpress.com/item/1005005882655063.html)
 
 ## BOM
