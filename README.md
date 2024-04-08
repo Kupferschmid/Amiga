@@ -47,3 +47,4 @@ Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB 
 ![Ugreen HDMI Switch](https://github.com/Kupferschmid/Amiga/blob/main/images/Ugreen%20hdmi-Switch.jpg)
 ![3d-Druck-Blende](https://cdn.thingiverse.com/assets/68/8d/da/80/a6/large_display_5c0da937-cf22-4bdb-8066-4bf4d3344ba2.png)
 [3d-Druck-Blende](https://www.thingiverse.com/thing:6367077)
+![Amiga_RGBtoHDMI_V2.3](https://github.com/Kupferschmid/Amiga/blob/main/images/Amiga_RGBtoHDMI_V2.3.png)
