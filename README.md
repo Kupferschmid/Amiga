@@ -45,3 +45,5 @@ Der Platz links im Panel ist für den späteren einbau eines [GoTek Systems USB 
 ![SUM A234](https://github.com/Kupferschmid/Amiga/blob/main/images/SUM%20A234.png)
 ![PiStorm2K für Amiga 2000 Retro Buddys PiStorm2K](https://www.retrobuddys.com/wp-content/uploads/2024/01/retro-jan-3-scaled.jpg)
 ![Ugreen HDMI Switch](https://github.com/Kupferschmid/Amiga/blob/main/images/Ugreen%20hdmi-Switch.jpg)
+![3d-Druck-Blende](https://cdn.thingiverse.com/assets/68/8d/da/80/a6/large_display_5c0da937-cf22-4bdb-8066-4bf4d3344ba2.png)
+[3d-Druck-Blende](https://www.thingiverse.com/thing:6367077)
